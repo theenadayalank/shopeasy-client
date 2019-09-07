@@ -34,7 +34,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.1"
+    "react-router-dom": "^5.0.1",
+    "tailwindcss": "^1.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
@@ -59,6 +60,7 @@
     "lint-prepush": "^0.4.1",
     "mini-css-extract-plugin": "^0.8.0",
     "postcss-loader": "^3.0.0",
+    "postcss-scss": "^2.0.0",
     "prettier": "^1.18.2",
     "style-loader": "^1.0.0",
     "webpack": "^4.39.1",
